@@ -18,6 +18,7 @@ Category
 
 
 Key Features
+
 ✅ Interactive Dashboard with Slicers for filtering data dynamically
 
 ✅ Pivot Tables to analyze sales performance across different dimensions
@@ -25,8 +26,12 @@ Key Features
 ✅ Charts & Graphs for visualizing key metrics like:
 
 Total Sales by Product
+
 Sales Trend Over Time
+
 Sales by Region & Category
+
+
 ✅ Conditional Formatting for better data visualization
 Files Included
 
